@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" version="3.0.1" name="com.luv2code.junitdemo.DemoUtilsTest" time="2.069" tests="9" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="17"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="D:\BHASKAR\BHASKAR_INTERVIEW_PREPARATION\JUNIT_CHAD_DERBY\Developer_code\01-Junit-overview\target\test-classes;D:\BHASKAR\BHASKAR_INTERVIEW_PREPARATION\JUNIT_CHAD_DERBY\Developer_code\01-Junit-overview\target\classes;C:\Users\mudal\.m2\repository\org\junit\jupiter\junit-jupiter\5.8.2\junit-jupiter-5.8.2.jar;C:\Users\mudal\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.8.2\junit-jupiter-api-5.8.2.jar;C:\Users\mudal\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\mudal\.m2\repository\org\junit\platform\junit-platform-commons\1.8.2\junit-platform-commons-1.8.2.jar;C:\Users\mudal\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\mudal\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.8.2\junit-jupiter-params-5.8.2.jar;C:\Users\mudal\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.8.2\junit-jupiter-engine-5.8.2.jar;C:\Users\mudal\.m2\repository\org\junit\platform\junit-platform-engine\1.8.2\junit-platform-engine-1.8.2.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="os.name" value="Windows 11"/>
+    <property name="java.vm.specification.version" value="17"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="IN"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-17\bin"/>
+    <property name="sun.java.command" value="C:\Users\mudal\AppData\Local\Temp\surefire10484306019879858093\surefirebooter-20240703014336141_3.jar C:\Users\mudal\AppData\Local\Temp\surefire10484306019879858093 2024-07-03T01-43-35_530-jvmRun1 surefire-20240703014336141_1tmp surefire_0-20240703014336141_2tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="D:\BHASKAR\BHASKAR_INTERVIEW_PREPARATION\JUNIT_CHAD_DERBY\Developer_code\01-Junit-overview\target\test-classes;D:\BHASKAR\BHASKAR_INTERVIEW_PREPARATION\JUNIT_CHAD_DERBY\Developer_code\01-Junit-overview\target\classes;C:\Users\mudal\.m2\repository\org\junit\jupiter\junit-jupiter\5.8.2\junit-jupiter-5.8.2.jar;C:\Users\mudal\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.8.2\junit-jupiter-api-5.8.2.jar;C:\Users\mudal\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\mudal\.m2\repository\org\junit\platform\junit-platform-commons\1.8.2\junit-platform-commons-1.8.2.jar;C:\Users\mudal\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\mudal\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.8.2\junit-jupiter-params-5.8.2.jar;C:\Users\mudal\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.8.2\junit-jupiter-engine-5.8.2.jar;C:\Users\mudal\.m2\repository\org\junit\platform\junit-platform-engine\1.8.2\junit-platform-engine-1.8.2.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\mudal"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2024-01-16"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-17"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="D:\BHASKAR\BHASKAR_INTERVIEW_PREPARATION\JUNIT_CHAD_DERBY\Developer_code\01-Junit-overview"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\mudal\AppData\Local\Temp\surefire10484306019879858093\surefirebooter-20240703014336141_3.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="17.0.10+11-LTS-240"/>
+    <property name="user.name" value="mudal"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\mudal\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\mudal\AppData\Local\Temp\"/>
+    <property name="java.version" value="17.0.10"/>
+    <property name="user.dir" value="D:\BHASKAR\BHASKAR_INTERVIEW_PREPARATION\JUNIT_CHAD_DERBY\Developer_code\01-Junit-overview"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="native.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-17\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;D:\BHASKAR\apache-maven-3.9.8\bin;C:\Users\mudal\AppData\Local\Microsoft\WindowsApps;;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.1.4\bin;;."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="17.0.10+11-LTS-240"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="61.0"/>
+  </properties>
+  <testcase name="TimeOut" classname="com.luv2code.junitdemo.DemoUtilsTest" time="2.021">
+    <system-out><![CDATA[@BeforeAll method execution of Each class
+
+@BeforeEach method execution of Each method
+I am going to sleep
+Sleeping over
+@AfterEach method execution of Each method
+
+]]></system-out>
+  </testcase>
+  <testcase name="Iterable Equals" classname="com.luv2code.junitdemo.DemoUtilsTest" time="0.003">
+    <system-out><![CDATA[@BeforeEach method execution of Each method
+Test ==> testIterableEquals()
+@AfterEach method execution of Each method
+
+]]></system-out>
+  </testcase>
+  <testcase name="Null and Not Null" classname="com.luv2code.junitdemo.DemoUtilsTest" time="0.002">
+    <system-out><![CDATA[@BeforeEach method execution of Each method
+Test ==> checkNullNotNull()
+@AfterEach method execution of Each method
+
+]]></system-out>
+  </testcase>
+  <testcase name="Array Equals" classname="com.luv2code.junitdemo.DemoUtilsTest" time="0.004">
+    <system-out><![CDATA[@BeforeEach method execution of Each method
+Test ==> testArrayEquals()
+@AfterEach method execution of Each method
+
+]]></system-out>
+  </testcase>
+  <testcase name="True and Not False" classname="com.luv2code.junitdemo.DemoUtilsTest" time="0.003">
+    <system-out><![CDATA[@BeforeEach method execution of Each method
+Test ==> testTrueAndFalse()
+@AfterEach method execution of Each method
+
+]]></system-out>
+  </testcase>
+  <testcase name="Equals and Not Equals" classname="com.luv2code.junitdemo.DemoUtilsTest" time="0.008">
+    <system-out><![CDATA[@BeforeEach method execution of Each method
+Test ==> checkEqualsAndNotEquals()
+@AfterEach method execution of Each method
+
+]]></system-out>
+  </testcase>
+  <testcase name="Same and Not Same" classname="com.luv2code.junitdemo.DemoUtilsTest" time="0.006">
+    <system-out><![CDATA[@BeforeEach method execution of Each method
+Test ==> testSameNotSame()
+@AfterEach method execution of Each method
+
+]]></system-out>
+  </testcase>
+  <testcase name="test Multiply" classname="com.luv2code.junitdemo.DemoUtilsTest" time="0.001">
+    <system-out><![CDATA[@BeforeEach method execution of Each method
+Test ==> testMultiply()
+@AfterEach method execution of Each method
+
+]]></system-out>
+  </testcase>
+  <testcase name="Throws Test" classname="com.luv2code.junitdemo.DemoUtilsTest" time="0.003">
+    <system-out><![CDATA[@BeforeEach method execution of Each method
+@AfterEach method execution of Each method
+
+]]></system-out>
+  </testcase>
+</testsuite>
