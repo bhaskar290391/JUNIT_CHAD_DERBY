@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bd285f93-a047-41b6-ba84-b8d7443e958d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/luv2code/test/junit/ApplicationTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="bd285f93-a047-41b6-ba84-b8d7443e958d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,7 +38,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/BHASKAR/BHASKAR_INTERVIEW_PREPARATION/JUNIT_CHAD_DERBY/Developer_code/03-spring-boot-junit"
+    "last_opened_file_path": "D:/BHASKAR/BHASKAR_INTERVIEW_PREPARATION/JUNIT_CHAD_DERBY/Developer_code/04-Mockito-Junit"
   }
 }]]></component>
   <component name="RecentsManager">
