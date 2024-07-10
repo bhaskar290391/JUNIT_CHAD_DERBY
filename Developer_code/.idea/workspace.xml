@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8c227332-0413-4ea4-a727-5a899f5cf009" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/01-Junit-overview/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Junit-overview/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Junit-overview/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-TDD/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-spring-boot-junit/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-spring-boot-junit/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-spring-boot-junit/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-spring-boot-junit/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-spring-boot-junit/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-spring-boot-junit/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Mockito-Junit/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Reflection-Test-utils/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Reflection-Test-utils/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Reflection-Test-utils/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-spring-boot-rest-api-test/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-spring-boot-rest-api-test/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-spring-boot-rest-api-test/.idea/workspace.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2j3tTtZVgBpSAmH8tDL2H7njdkT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="openDirectoriesWithSingleClick" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8c227332-0413-4ea4-a727-5a899f5cf009" name="Changes" comment="" />
+      <created>1720627600338</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1720627600338</updated>
+    </task>
+    <servers />
+  </component>
+</project>
